@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tianyi (Billy) Ma"
   avatar           : "profile.png"
-  bio              : "Computer Science PhD Student at University of Notre Dame"
-  location         : "Notre Dame, IN USA"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
