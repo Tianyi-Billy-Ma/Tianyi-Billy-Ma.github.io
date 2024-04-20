@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science Major & Economic Minor, University of Colorado Boulder, 2016 - 2020  
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science with Minor in Economics, University of Colorado Boulder, 2016 - 2020  
+* M.S. in Computer Science, University of Southern California, 2020 - 2022
+* Ph.D in Computer Science, University of Notre Dame, 2022 - Now. 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun. 2021 - Jun. 2022: Project Researcher & Software Developer Intern
+  * Edtera, Inc
+  * 
+
 
 * Fall 2015: Research Assistant
   * Github University
