@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science Major & Economic Minor, University of Colorado Boulder, 2016 - 2020  
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
