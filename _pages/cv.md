@@ -56,4 +56,15 @@ Teaching
   
 Service and leadership
 ======
-* Conference Program Committee Member: KDD2024 
+* Conference Program Committee Member: COLING'24, KDD'24. 
+* Journal Reviewer: Transactions on Big Data, Discover Data.
+* Outreach Program Judger: 
+  * Learning Sphere Projects at Northpoint Elementary School, 2024
+  * Learning Sphere Projects at Northpoint Elementary School, 2023
+* Volunteer:
+  * Purdue CDF Freedom School
+
+Teaching
+=====
+* Teaching assistant:
+  * CSE40567/60567 Computer Security. SPR2024.
