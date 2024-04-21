@@ -11,27 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science with Minor in Economics, University of Colorado Boulder, 2016 - 2020  
+* M.S. in Computer Science, University of Southern California, 2020 - 2022
+* Ph.D in Computer Science, University of Notre Dame, 2022 - Now. 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun. 2021 - Jun. 2022: Project Researcher & Software Developer Intern
+  * Edtera, Inc
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -61,4 +49,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Service and leadership
+======
+* Conference Program Committee Member: COLING'24, KDD'24. 
+* Journal Reviewer: Transactions on Big Data, Discover Data.
+* Outreach Program Judger: 
+  * Learning Sphere Projects at Northpoint Elementary School, 2024
+  * Learning Sphere Projects at Northpoint Elementary School, 2023
+* Volunteer:
+  * Purdue CDF Freedom School
+
