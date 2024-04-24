@@ -37,3 +37,4 @@ Contact
 =====
 
 * Email: tma2\[at\]nd\[dot\]edu
+* Office: 247 Fitzpatrick Hall of Engineering
