@@ -18,7 +18,13 @@ News
 * [2024.02] I will serve as a PC member for KDD'24.
 * [2023.12] One paper is accepted by ICDM'23.
 
+Selected Publications
+=====
+* Hypergraph Contrastive Learning for Drug Trafficking Community Detection
 
+  **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye.
+  
+  [ICDM'23] The International Conference on Data Mining
 
 Contact
 =====
