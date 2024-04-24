@@ -20,10 +20,16 @@ News
 
 Selected Publications
 =====
+* Dual-level Hypergraph Contrastive Learning with Adaptive Temperature Enhancement
+  
+  Yiyue Qian, **Tianyi Ma**, Chuxu Zhang, Yanfang, Ye.
+
+  [WWW'24] The World Wide Web Conference
+
 * Hypergraph Contrastive Learning for Drug Trafficking Community Detection
 
   **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye.
-  
+
   [ICDM'23] The International Conference on Data Mining
 
 Contact
