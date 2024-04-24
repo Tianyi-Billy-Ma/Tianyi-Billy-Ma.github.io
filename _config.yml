@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Billy's Homepage"
 title_separator          : "-"
 name                     : &name "Tianyi (Billy) Ma"
 description              : &description "personal description"
