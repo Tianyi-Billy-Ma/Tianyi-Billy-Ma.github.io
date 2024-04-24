@@ -4,7 +4,7 @@ collection: teaching
 type: "graduate/undergraduate course"
 permalink: /teaching/2024-spring-TA.md
 venue: "University of Notre Dame, Department of Computer Science and Engineering"
-data: 2024-01-18
+date: 2024-01-18
 location: "South Bend, USA"
 ---
 

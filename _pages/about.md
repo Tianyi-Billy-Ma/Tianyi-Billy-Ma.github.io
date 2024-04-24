@@ -17,6 +17,7 @@ News
 =====
 * [2024.03] One paper is accepted by WWW'24.
 * [2024.02] I will serve as a PC member for KDD'24.
+* [2024.01] I will serve as a PC member for COLING’24.
 * [2023.12] One paper is accepted by ICDM'23.
 
 Selected Publications
