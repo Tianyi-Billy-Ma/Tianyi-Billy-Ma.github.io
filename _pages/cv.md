@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science with Minor in Economics, University of Colorado Boulder, 2016 - 2020  
+* B.S. in Computer Science with a Minor in Economics, University of Colorado Boulder, 2016 - 2020  
 * M.S. in Computer Science, University of Southern California, 2020 - 2022
 * Ph.D in Computer Science, University of Notre Dame, 2022 - Now. 
 
@@ -47,8 +47,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
 Service and leadership
 ======
 * Conference Program Committee Member: COLING'24, KDD'24. 
