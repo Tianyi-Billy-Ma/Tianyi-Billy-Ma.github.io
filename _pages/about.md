@@ -15,7 +15,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 News
 =====
-* [2024.04] I will serve as a PC member for ICDM'24.
+* [2024.04] I will serve as a PC member for CIKM'24.
 * [2024.03] One paper is accepted by WWW'24.
 * [2024.02] I will serve as a PC member for KDD'24.
 * [2024.01] I will serve as a PC member for COLING’24.
