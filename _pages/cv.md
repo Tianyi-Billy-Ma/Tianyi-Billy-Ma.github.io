@@ -11,23 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science with a Minor in Economics, University of Colorado Boulder, 2016 - 2020  
-* M.S. in Computer Science, University of Southern California, 2020 - 2022
+* B.S. in Computer Science with a Minor in Economics, University of Colorado Boulder, 2016 - 2020.
+* M.S. in Computer Science, University of Southern California, 2020 - 2022.
 * Ph.D in Computer Science, University of Notre Dame, 2022 - Now. 
 
 Work experience
 ======
-* Jun. 2021 - Jun. 2022: Project Researcher & Software Developer Intern
+* Jun. 2021 - Jun. 2022: Project Researcher & Software Developer Intern.
   * Edtera, Inc
-
-Skills
+* May. 2019 - Aug. 2019: Software Engineering Intern.
+  * Tencent, Inc
+  
+Research
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* General:
+  * Machine Learning, Deep Learning, Generative AI, Data Mining, Natural Language Processing.
+* Research Direction:
+  * Large Language Models,  Self-Supervised Learning, Contrastive Learning, Graph Learning, Hypergraph Learning.
+* Application:
+  * Drug Trafficking on Social Media, Community Detection.
 
 Publications
 ======
@@ -49,14 +51,16 @@ Teaching
   
 Service and leadership
 ======
-* Conference Program Committee Member: COLING'24, KDD'24. 
+* Conference Program Committee Member: COLING'24, KDD'24, CIKM'24.
+* Research Mentor:
+  * ND Summer Enrichment Program, 2024
 * Journal Reviewer: 
-  * Transactions on Big Data.
+  *  Transactions on Big Data.
   *  Discover Data.
   *  Transactions on Dependable and Secure Computing.
 * Outreach Program Judger: 
   * Learning Sphere Projects at Northpoint Elementary School, 2024
   * Learning Sphere Projects at Northpoint Elementary School, 2023
 * Volunteer:
-  * Purdue CDF Freedom School
+  * Purdue CDF Freedom School, 2023
 
