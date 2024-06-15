@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available in PDF format [here](https://tianyi-billy-ma.github.io/files/Tianyi_Ma_CV.pdf)(
+My CV is available in PDF format [here](https://tianyi-billy-ma.github.io/files/Tianyi_Ma_CV.pdf).
 
 Education
 ======
