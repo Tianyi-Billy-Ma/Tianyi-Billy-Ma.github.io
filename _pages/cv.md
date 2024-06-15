@@ -17,17 +17,18 @@ Education
 
 Work experience
 ======
-* Jun. 2021 - Jun. 2022: Project Researcher & Software Developer Intern.
+* May. 2021 - Jun. 2022: Project Researcher & Software Developer (Intern)
   * Edtera, Inc
-* May. 2019 - Aug. 2019: Software Engineering Intern.
-  * Tencent, Inc
-  
+* May. 2019 - Aug. 2019: Software Engineering (Intern)
+  * Tencent Co., Inc
+* Jun. 2018 - Aug. 2018: Lecture Assistant (Intern)
+  * Baidu Institute of Technology 
 Research
 ======
 * General:
-  * Machine Learning, Deep Learning, Generative AI, Data Mining, Natural Language Processing.
+  * Machine Learning, Deep Learning, Generative AI, Data Mining, Natural Language Processing, AI for Education.
 * Research Direction:
-  * Large Language Models,  Self-Supervised Learning, Contrastive Learning, Graph Learning, Hypergraph Learning.
+  * (Hyper)Graph Representation Learning, Graph Prompt Learning, Large Language Models (LLMs), Self-supervised Learning.
 * Application:
   * Drug Trafficking on Social Media, Community Detection.
 
@@ -52,8 +53,6 @@ Teaching
 Service and leadership
 ======
 * Conference Program Committee Member: COLING'24, KDD'24, CIKM'24.
-* Research Mentor:
-  * ND Summer Enrichment Program, 2024
 * Journal Reviewer: 
   *  Transactions on Big Data.
   *  Discover Data.
@@ -61,6 +60,10 @@ Service and leadership
 * Outreach Program Judger: 
   * Learning Sphere Projects at Northpoint Elementary School, 2024
   * Learning Sphere Projects at Northpoint Elementary School, 2023
+* Teaching Assistant Leader:
+  * Computer Security (CSE-40567/60567), SPR2024. 
 * Volunteer:
   * Purdue CDF Freedom School, 2023
+* Research Mentor:
+  * ND Summer Enrichment Program, 2024
 
