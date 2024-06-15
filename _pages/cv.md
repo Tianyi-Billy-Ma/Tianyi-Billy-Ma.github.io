@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My CV is available in PDF format [here](https://tianyi-billy-ma.github.io/files/Tianyi_Ma_CV.pdf)(
+
 Education
 ======
 * B.S. in Computer Science with a Minor in Economics, University of Colorado Boulder, 2016 - 2020.
@@ -23,6 +25,7 @@ Work experience
   * Tencent Co., Inc
 * Jun. 2018 - Aug. 2018: Lecture Assistant (Intern)
   * Baidu Institute of Technology 
+  
 Research
 ======
 * General:
