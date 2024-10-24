@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+* Aug. 2024 - Dec. 2024 Research Intern
+  * Amazon, Inc
 * May. 2021 - Jun. 2022: Project Researcher & Software Developer (Intern)
   * Edtera, Inc
 * May. 2019 - Aug. 2019: Software Engineering (Intern)
