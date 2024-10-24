@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am Tianyi (Billy) Ma (马天翊), a Ph.D. Student in Computer Science and Engineering at the University of Notre Dame, advised by [Prof. Ye](http://yes-lab.org/). Before that, I obtained my M.S. degree from the University of Southern California and my B.S. degree from the University of Colorado Boulder.
+Greetings! I am Tianyi (Billy) Ma (马天翊), a Ph.D. Student in Computer Science and Engineering at the University of Notre Dame, co-advised by [Prof. Ye](http://yes-lab.org/) and [Prof. Zhang](https://chuxuzhang.github.io/). Before that, I obtained my M.S. degree from the University of Southern California and my B.S. degree from the University of Colorado Boulder.
 
 My research fields fail in graph/hypergraph Learning and its application with Large Language models. Specifically, I am interested in hypergraph representation learning and contrastive learning. **I am eager to collaborate with fellow researchers. Please feel free to contact me via the email provided below to discuss details.**
 
