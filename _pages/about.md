@@ -15,13 +15,26 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 News
 =====
-* [2024.11] One paper is accepted by WSDM'25.
+* [2024.11] One paper is accepted by KDD'25.
+* [2024.10] One paper is accepted by WSDM'25.
 * [2024.08] I will join Amazon for a research internship during this fall. 
 * [2024.04] I will serve as a PC member for CIKM'24.
 * [2024.03] One paper is accepted by WWW'24.
 
 Selected Publications
 =====
+* MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation.
+
+ Zheyuan Zhang, Zehong Wang, **Tianyi Ma**, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
+
+ [KDD'25] The ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+
+* Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning
+
+  Yiyue Qian, **Tianyi Ma**, Chuxu Zhang, Yanfang, Ye. (**co-first author**)
+
+ [WSDM'25] ACM International Conference on Web Search and Data Mining
+
 * Dual-level Hypergraph Contrastive Learning with Adaptive Temperature Enhancement
   
   Yiyue Qian, **Tianyi Ma**, Chuxu Zhang, Yanfang, Ye.

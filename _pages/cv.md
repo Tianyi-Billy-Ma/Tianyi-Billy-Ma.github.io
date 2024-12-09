@@ -11,34 +11,34 @@ redirect_from:
 
 My CV is available in PDF format [here](https://tianyi-billy-ma.github.io/files/Tianyi_Ma_University_of_Notre_Dame_CV.pdf).
 
-Education
-======
-* B.S. in Computer Science with a Minor in Economics, University of Colorado Boulder, 2016 - 2020.
-* M.S. in Computer Science, University of Southern California, 2020 - 2022.
-* Ph.D in Computer Science, University of Notre Dame, 2022 - Now. 
+# Education
 
-Work experience
-======
-* Aug. 2024 - Dec. 2024 Research Intern
-  * Amazon, Inc
-* May. 2021 - Jun. 2022: Project Researcher & Software Developer (Intern)
-  * Edtera, Inc
-* May. 2019 - Aug. 2019: Software Engineering (Intern)
-  * Tencent Co., Inc
-* Jun. 2018 - Aug. 2018: Lecture Assistant (Intern)
-  * Baidu Institute of Technology 
-  
-Research
-======
-* General:
-  * Machine Learning, Deep Learning, Generative AI, Data Mining, Natural Language Processing, AI for Education.
-* Research Direction:
-  * (Hyper)Graph Representation Learning, Graph Prompt Learning, Large Language Models (LLMs), Self-supervised Learning.
-* Application:
-  * Drug Trafficking on Social Media, Community Detection.
+- B.S. in Computer Science with a Minor in Economics, University of Colorado Boulder, 2016 - 2020.
+- M.S. in Computer Science, University of Southern California, 2020 - 2022.
+- Ph.D in Computer Science, University of Notre Dame, 2022 - Now.
 
-Publications
-======
+# Work experience
+
+- Aug. 2024 - Dec. 2024 Research Intern
+  - Amazon, Inc
+- May. 2021 - Jun. 2022: Project Researcher & Software Developer (Intern)
+  - Edtera, Inc
+- May. 2019 - Aug. 2019: Software Engineering (Intern)
+  - Tencent Co., Inc
+- Jun. 2018 - Aug. 2018: Lecture Assistant (Intern)
+  - Baidu Institute of Technology
+
+# Research
+
+- General:
+  - Machine Learning, Deep Learning, Generative AI, Data Mining, Natural Language Processing, AI for Education.
+- Research Direction:
+  - (Hyper)Graph Representation Learning, Graph Prompt Learning, Large Language Models (LLMs), Self-supervised Learning.
+- Application:
+  - Drug Trafficking on Social Media, Community Detection.
+
+# Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -57,7 +57,7 @@ Teaching
   
 Service and leadership
 ======
-* Conference Program Committee Member: COLING'24, KDD'24, CIKM'24.
+* Conference Program Committee Member: ICLR'25, KDD'24, CIKM'24, SDM'25,  COLING'{24-25}.
 * Journal Reviewer: 
   *  Transactions on Big Data.
   *  Discover Data.
@@ -71,4 +71,3 @@ Service and leadership
   * Purdue CDF Freedom School, 2023
 * Research Mentor:
   * ND Summer Enrichment Program, 2024
-
