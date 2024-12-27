@@ -24,10 +24,10 @@ News
 Selected Publications
 =====
 * MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation.
- 
- Zheyuan Zhang, Zehong Wang, **Tianyi Ma**, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
- 
- [KDD'25] The ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  
+  Zheyuan Zhang, Zehong Wang, **Tianyi Ma**, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
+
+  [KDD'25] The ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 * Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning
 
