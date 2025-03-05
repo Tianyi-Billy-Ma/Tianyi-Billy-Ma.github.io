@@ -27,7 +27,7 @@ Selected Publications
 * Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning
 
   **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye. (**co-first author**)
-  j
+  
   [WSDM'25] ACM International Conference on Web Search and Data Mining
 
 * Can LLMs Convert Graphs to Text-Attributed Graphs?
