@@ -30,7 +30,7 @@ Preprints
 
     **Tianyi Ma**, Yiyue Qian, Shinan Zhang, Chuxu Zhang, Yanfang, Ye.
 
-  * LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection [paper](https://arxiv.org/abs/2503.01900)
+  * LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection [paper](https://arxiv.org/abs/2503.01900)[code] (https://anonymous.4open.science/r/LLM-HetGDT-DB76/README.md)
 
     **Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang, Ye.
 
