@@ -23,6 +23,17 @@ News
 * [2024.08] I will join Amazon for a research internship during this fall. 
 * [2024.04] I will serve as a PC member for CIKM'24.
 
+Preprints
+=====
+
+ * Adaptive Expansion for Hypergraph Learning [paper](https://arxiv.org/abs/2502.15564)[code](https://anonymous.4open.science/r/AdE-CEE2/README.md)
+
+    **Tianyi Ma**, Yiyue Qian, Shinan Zhang, Chuxu Zhang, Yanfang, Ye.
+
+  * LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection [paper](https://arxiv.org/abs/2503.01900)
+
+    **Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang, Ye.
+
 Selected Publications
 =====
 * Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning
