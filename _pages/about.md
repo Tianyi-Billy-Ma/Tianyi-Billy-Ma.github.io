@@ -16,25 +16,31 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 News
 =====
+* [2025.02] One paper is accepted by NAACL'25.
 * [2024.11] One paper is accepted by KDD'25.
 * [2024.10] One paper is accepted by WSDM'25.
 * [2024.08] I will join Amazon for a research internship during this fall. 
 * [2024.04] I will serve as a PC member for CIKM'24.
-* [2024.03] One paper is accepted by WWW'24.
 
 Selected Publications
 =====
+* Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning
+
+  **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye. (**co-first author**)
+  j
+  [WSDM'25] ACM International Conference on Web Search and Data Mining
+
+* Can LLMs Convert Graphs to Text-Attributed Graphs?
+
+  Zehong Wang, Sidney Liu, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye
+
+  [NAACL'25] The 2025 Conference of the North American Chapter of the Association for Computational Linguistics
+
 * MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation.
   
   Zheyuan Zhang, Zehong Wang, **Tianyi Ma**, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
 
   [KDD'25] The ACM SIGKDD Conference on Knowledge Discovery and Data Mining
-
-* Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning
-
-  Yiyue Qian, **Tianyi Ma**, Chuxu Zhang, Yanfang, Ye. (**co-first author**)
-  
-  [WSDM'25] ACM International Conference on Web Search and Data Mining
 
 * Dual-level Hypergraph Contrastive Learning with Adaptive Temperature Enhancement
   
