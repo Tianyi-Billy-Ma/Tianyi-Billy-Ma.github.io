@@ -57,7 +57,7 @@ Teaching
   
 Service and leadership
 ======
-* Conference Program Committee Member: ICLR'25, KDD'24, CIKM'24, SDM'25,  COLING'{24-25}.
+* Conference Program Committee Member: SIGIR'25, ICLR'25, KDD'24, CIKM'24, SDM'25,  COLING'{24-25}.
 * Journal Reviewer: 
   *  Transactions on Big Data.
   *  Discover Data.
@@ -66,8 +66,8 @@ Service and leadership
   * Learning Sphere Projects at Northpoint Elementary School, 2024
   * Learning Sphere Projects at Northpoint Elementary School, 2023
 * Teaching Assistant Leader:
-  * Computer Security (CSE-40567/60567), SPR2024. 
+  * Computer Security (CSE-40567/60567), SPR2024, SPR2025. 
 * Volunteer:
-  * Purdue CDF Freedom School, 2023
+  * Purdue CDF Freedom School, 2023, 2024
 * Research Mentor:
   * ND Summer Enrichment Program, 2024
