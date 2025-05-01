@@ -17,11 +17,11 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 News
 =====
+* [2025.05] I will join Amazon for a applied research internship this summer.
+* [2025.05] Two papers are accepted by ICML'25. 
 * [2025.02] One paper is accepted by NAACL'25.
 * [2024.11] One paper is accepted by KDD'25.
 * [2024.10] One paper is accepted by WSDM'25.
-* [2024.08] I will join Amazon for a research internship during this fall. 
-* [2024.04] I will serve as a PC member for CIKM'24.
 
 Preprints
 =====
@@ -36,35 +36,47 @@ Preprints
 
 Selected Publications
 =====
-* Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning
 
-  **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye. (**co-first author**)
-  
-  [WSDM'25] ACM International Conference on Web Search and Data Mining
+## Preprints
 
-* Can LLMs Convert Graphs to Text-Attributed Graphs?
+- LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
+**Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
+[[paper](https://arxiv.org/abs/2503.01900)]
 
-  Zehong Wang, Sidney Liu, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye
+- Neural Graph Pattern Machine\
+Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2501.18739)]
 
-  [NAACL'25] The 2025 Conference of the North American Chapter of the Association for Computational Linguistics
+- Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-trees\
+Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2412.16441)] [[code](https://github.com/Zehong-Wang/GIT)]
 
-* MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation.
-  
-  Zheyuan Zhang, Zehong Wang, **Tianyi Ma**, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
+- NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
+Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, **Tianyi Ma**, et al.\
+[[paper](https://arxiv.org/abs/2412.15547)]
 
-  [KDD'25] The ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+## 2025
 
-* Dual-level Hypergraph Contrastive Learning with Adaptive Temperature Enhancement
-  
-  Yiyue Qian, **Tianyi Ma**, Chuxu Zhang, Yanfang, Ye.
+ - [**WSDM'25**] Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning\ 
+**Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye. (**co-first author**)
 
-  [WWW'24] The World Wide Web Conference
+ - [**NAACL'25**] Can LLMs Convert Graphs to Text-Attributed Graphs?\
+Zehong Wang, Sidney Liu, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye.
+   
+- [**KDD 25**] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
+Zheyuan Zhang, Zehong Wang, **Tianyi Ma**, Varun Sameer Taneja, Sofia Nelson, et al.\
+[[paper](https://arxiv.org/abs/2412.08847)]
 
-* Hypergraph Contrastive Learning for Drug Trafficking Community Detection
+## 2024
 
-  **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye.
+- [**WWW'24**] Dual-level Hypergraph Contrastive Learning with Adaptive Temperature Enhancement\
+Yiyue Qian, **Tianyi Ma**, Chuxu Zhang, Yanfang, Ye.
 
-  [ICDM'23] The International Conference on Data Mining
+## 2023
+
+- [**ICDM'23**] Hypergraph Contrastive Learning for Drug Trafficking Community Detection\
+**Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye.\ 
+[[paper](https://ieeexplore.ieee.org/document/10415815)][[code](https://github.com/GraphResearcher/HyGCL-DC)]
 
 Contact
 =====
