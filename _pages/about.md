@@ -23,16 +23,6 @@ News
 * [2024.11] One paper is accepted by KDD'25.
 * [2024.10] One paper is accepted by WSDM'25.
 
-Preprints
-=====
-
- * Adaptive Expansion for Hypergraph Learning [[paper](https://arxiv.org/abs/2502.15564)] [[code](https://anonymous.4open.science/r/AdE-CEE2/README.md)]
-
-    **Tianyi Ma**, Yiyue Qian, Shinan Zhang, Chuxu Zhang, Yanfang, Ye.
-
-  * LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection [[paper](https://arxiv.org/abs/2503.01900)] [[code](https://anonymous.4open.science/r/LLM-HetGDT-DB76/README.md)]
-
-    **Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang, Ye.
 
 Selected Publications
 =====
@@ -42,6 +32,10 @@ Selected Publications
 - LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
 **Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
 [[paper](https://arxiv.org/abs/2503.01900)]
+
+- Adaptive Expansion for Hypergraph Learning\
+**Tianyi Ma**, Yiyue Qian, Shinan Zhang, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2502.15564)] [[code](https://anonymous.4open.science/r/AdE-CEE2/README.md)]
 
 - Neural Graph Pattern Machine\
 Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
