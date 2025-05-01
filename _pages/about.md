@@ -52,10 +52,12 @@ Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, **Tianyi Ma**, et al.\
 ## 2025
 
  - [**WSDM'25**] Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning\ 
-**Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye. (**co-first author**)
+**Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye. (**co-first author**)\
+[[paper](https://dl.acm.org/doi/10.1145/3701551.3703553)][[code](https://github.com/graphprojects/AD-GSMOTE)]
 
  - [**NAACL'25**] Can LLMs Convert Graphs to Text-Attributed Graphs?\
-Zehong Wang, Sidney Liu, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye.
+Zehong Wang, Sidney Liu, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye.\
+[[paper](http://arxiv.org/abs/2412.10136)] [[code](https://github.com/Zehong-Wang/TANS)]
    
 - [**KDD 25**] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
 Zheyuan Zhang, Zehong Wang, **Tianyi Ma**, Varun Sameer Taneja, Sofia Nelson, et al.\
@@ -64,12 +66,13 @@ Zheyuan Zhang, Zehong Wang, **Tianyi Ma**, Varun Sameer Taneja, Sofia Nelson, et
 ## 2024
 
 - [**WWW'24**] Dual-level Hypergraph Contrastive Learning with Adaptive Temperature Enhancement\
-Yiyue Qian, **Tianyi Ma**, Chuxu Zhang, Yanfang, Ye.
+Yiyue Qian, **Tianyi Ma**, Chuxu Zhang, Yanfang, Ye.\
+[[paper](https://dl.acm.org/doi/10.1145/3589335.3651493)][[code](https://github.com/graphprojects/HyGCL-AdT)]
 
 ## 2023
 
 - [**ICDM'23**] Hypergraph Contrastive Learning for Drug Trafficking Community Detection\
-**Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye.\ 
+**Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye.\
 [[paper](https://ieeexplore.ieee.org/document/10415815)][[code](https://github.com/GraphResearcher/HyGCL-DC)]
 
 Contact
