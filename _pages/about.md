@@ -15,23 +15,16 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 
 
-News
-=====
-* [2025.05] I will join Amazon for a applied research internship this summer.
-* [2025.05] Two papers are accepted by ICML'25. 
-* [2025.02] One paper is accepted by NAACL'25.
-* [2024.11] One paper is accepted by KDD'25.
-* [2024.10] One paper is accepted by WSDM'25.
+# News
+- [2025.05] Two papers are accepted by ACL'25.
+- [2025.05] I will join Amazon for a applied research internship this summer.
+- [2025.05] Two papers are accepted by ICML'25.
+- [2025.02] One paper is accepted by NAACL'25.
 
 
-Selected Publications
-=====
-
+# Selected Publications
 ## Preprints
 
-- LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
-**Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
-[[paper](https://arxiv.org/abs/2503.01900)]
 
 - Adaptive Expansion for Hypergraph Learning\
 **Tianyi Ma**, Yiyue Qian, Shinan Zhang, Chuxu Zhang, Yanfang Ye.\
@@ -45,11 +38,16 @@ Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang
 Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2412.16441)] [[code](https://github.com/Zehong-Wang/GIT)]
 
-- NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
-Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, **Tianyi Ma**, et al.\
-[[paper](https://arxiv.org/abs/2412.15547)]
 
 ## 2025
+
+- [**ACL'25**] LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
+**Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
+[[paper](https://arxiv.org/abs/2503.01900)]
+
+- [**ACL'25**] NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
+Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, **Tianyi Ma**, et al.\
+[[paper](https://arxiv.org/abs/2412.15547)]
 
  - [**WSDM'25**] Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning\ 
 **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye. (**co-first author**)\
@@ -75,8 +73,7 @@ Yiyue Qian, **Tianyi Ma**, Chuxu Zhang, Yanfang, Ye.\
 **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye.\
 [[paper](https://ieeexplore.ieee.org/document/10415815)][[code](https://github.com/GraphResearcher/HyGCL-DC)]
 
-Contact
-=====
+- Contact
 
 * Email: tma2\[at\]nd\[dot\]edu
 * Office: 247 Fitzpatrick Hall of Engineering
