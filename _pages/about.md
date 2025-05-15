@@ -25,18 +25,10 @@ My research fields fail in graph/hypergraph Learning and its application with La
 # Selected Publications
 ## Preprints
 
-
 - Adaptive Expansion for Hypergraph Learning\
 **Tianyi Ma**, Yiyue Qian, Shinan Zhang, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2502.15564)] [[code](https://anonymous.4open.science/r/AdE-CEE2/README.md)]
 
-- Neural Graph Pattern Machine\
-Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2501.18739)]
-
-- Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-trees\
-Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2412.16441)] [[code](https://github.com/Zehong-Wang/GIT)]
 
 
 ## 2025
@@ -48,6 +40,14 @@ Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang
 - [**ACL'25**] NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
 Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, **Tianyi Ma**, et al.\
 [[paper](https://arxiv.org/abs/2412.15547)]
+
+- [**ICML'25**] Neural Graph Pattern Machine\
+Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2501.18739)]
+
+- [**ICML'25**] Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-trees\
+Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2412.16441)] [[code](https://github.com/Zehong-Wang/GIT)]
 
  - [**WSDM'25**] Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning\ 
 **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye. (**co-first author**)\
