@@ -25,17 +25,30 @@ My research fields fail in graph/hypergraph Learning and its application with La
 # Selected Publications
 ## Preprints
 
+- AutoData: A Multi-Agent System for Open Web Data Collection\
+**Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2505.15859)] [[code](https://github.com/GraphResearcher/AutoData)]
+
+- Scalable Graph Generative Modeling via Substructure Sequences\
+Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2505.16130)] [[code](https://github.com/Zehong-Wang/G2PM)]
+
 - Adaptive Expansion for Hypergraph Learning\
 **Tianyi Ma**, Yiyue Qian, Shinan Zhang, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2502.15564)] [[code](https://anonymous.4open.science/r/AdE-CEE2/README.md)]
 
+## Survey
+
+- Graph Foundation Models: A Comprehensive Survey\
+Zehong Wang, Zheyuan Liu, **Tianyi Ma**, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2505.15116)] [[awesome list](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
 
 
 ## 2025
 
 - [**ACL'25**] LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
 **Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
-[[paper](https://arxiv.org/abs/2503.01900)]
+[[paper](https://arxiv.org/abs/2503.01900)][[code](https://github.com/GraphResearcher/LLM-HetGDT)]
 
 - [**ACL'25**] NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
 Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, **Tianyi Ma**, et al.\
