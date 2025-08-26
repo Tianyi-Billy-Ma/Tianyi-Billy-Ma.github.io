@@ -17,10 +17,10 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 # News
 - [2025.08] One paper was accepted by ICDM'25. 
-- [2025.08] One paper is accepted by EMNLP'25. Congrats to [Shang Ma](https://shangma.org/)!
-- [2025.05] Two papers are accepted by ACL'25.
+- [2025.08] One paper was accepted by EMNLP'25. Congrats to [Shang Ma](https://shangma.org/)!
+- [2025.05] Two papers were accepted by ACL'25.
 - [2025.05] I will join Amazon for an applied research internship this summer.
-- [2025.05] Two papers are accepted by ICML'25.
+- [2025.05] Two papers were accepted by ICML'25.
 
 
 # Selected Publications
@@ -70,7 +70,7 @@ Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang
 Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[Paper](https://arxiv.org/abs/2412.16441)] [[Code](https://github.com/Zehong-Wang/GIT)]
 
- - [**WSDM'25**] Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning\ 
+ - [**WSDM'25**] Adaptive Graph Enhancement for Imbalanced Multi-relation Graph Learning\
 **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye. (**co-first author**)\
 [[Paper](https://dl.acm.org/doi/10.1145/3701551.3703553)][[Code](https://github.com/graphprojects/AD-GSMOTE)]
 
