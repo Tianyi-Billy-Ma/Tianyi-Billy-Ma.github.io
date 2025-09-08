@@ -48,7 +48,7 @@ Zehong Wang, Zheyuan Liu, **Tianyi Ma**, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, 
 ## 2025
 
 - [**ICDM'25**] Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
-**Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.
+**Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.\
 [[Code](https://github.com/Tianyi-Billy-Ma/BHyGNN)]
 
 - [**EMNLP'25**] PsyScam: A Benchmark for Psychological Techniques in Real-World Scams\
