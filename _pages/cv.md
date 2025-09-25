@@ -59,7 +59,7 @@ Teaching
   
 Service and leadership
 ======
-* Conference Program Committee Member: SIGIR'25, ICLR'{25, 26}, KDD'24, CIKM'{24, 25}, SDM'25, COLING'{24-25}.
+* Conference Program Committee Member: SIGIR'25, ICLR'{25, 26}, KDD'24, CIKM'{24, 25}, SDM'25, COLING'{24-25}, LREC'26.
 * Journal Reviewer: 
   *  Transactions on Big Data.
   *  Discover Data.
