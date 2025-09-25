@@ -63,7 +63,7 @@ Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, **Tianyi Ma**, et al.\
 
 - [**ICML'25**] Neural Graph Pattern Machine\
 Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
-[[Paper](https://arxiv.org/abs/2501.18739)] [[Code][https://github.com/Zehong-Wang/GPM]]
+[[Paper](https://arxiv.org/abs/2501.18739)] [[Code](https://github.com/Zehong-Wang/GPM)]
 
 - [**ICML'25**] Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-trees\
 Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
