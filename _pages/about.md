@@ -16,23 +16,16 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 
 # News
+- [2025.09] Two papers were accepted by NeurIPS'25.
 - [2025.08] One paper was accepted by ICDM'25. 
 - [2025.08] One paper was accepted by EMNLP'25. Congrats to [Shang Ma](https://shangma.org/)!
 - [2025.05] Two papers were accepted by ACL'25.
-- [2025.05] I will join Amazon for an applied research internship this summer.
-- [2025.05] Two papers were accepted by ICML'25.
 
 
 # Selected Publications
 ## Preprints
 
-- AutoData: A Multi-Agent System for Open Web Data Collection\
-**Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
-[[Paper](https://arxiv.org/abs/2505.15859)] [[Code](https://github.com/GraphResearcher/AutoData)]
 
-- Scalable Graph Generative Modeling via Substructure Sequences\
-Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye.\
-[[Paper](https://arxiv.org/abs/2505.16130)] [[Code](https://github.com/Zehong-Wang/G2PM)]
 
 - Adaptive Expansion for Hypergraph Learning\
 **Tianyi Ma**, Yiyue Qian, Shinan Zhang, Chuxu Zhang, Yanfang Ye.\
@@ -46,6 +39,13 @@ Zehong Wang, Zheyuan Liu, **Tianyi Ma**, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, 
 
 
 ## 2025
+- [**NeurIPS'25**] AutoData: A Multi-Agent System for Open Web Data Collection\
+**Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
+[[Paper](https://arxiv.org/abs/2505.15859)] [[Code](https://github.com/GraphResearcher/AutoData)]
+
+- [**NeurIPS'25**] Scalable Graph Generative Modeling via Substructure Sequences\
+Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye.\
+[[Paper](https://arxiv.org/abs/2505.16130)] [[Code](https://github.com/Zehong-Wang/G2PM)]
 
 - [**ICDM'25**] Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
 **Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.\
