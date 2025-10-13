@@ -37,6 +37,10 @@ Zehong Wang, Zheyuan Liu, **Tianyi Ma**, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, 
 
 
 ## 2025
+- [**ICDM'25**] (Best Paper Award Candidate) Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
+**Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.\
+[[Code](https://github.com/Tianyi-Billy-Ma/BHyGNN)]
+
 - [**NeurIPS'25**] AutoData: A Multi-Agent System for Open Web Data Collection\
 **Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
 [[Paper](https://arxiv.org/abs/2505.15859)] [[Code](https://github.com/GraphResearcher/AutoData)]
@@ -44,10 +48,6 @@ Zehong Wang, Zheyuan Liu, **Tianyi Ma**, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, 
 - [**NeurIPS'25**] Scalable Graph Generative Modeling via Substructure Sequences\
 Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye.\
 [[Paper](https://arxiv.org/abs/2505.16130)] [[Code](https://github.com/Zehong-Wang/G2PM)]
-
-- [**ICDM'25**] Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
-**Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.\
-[[Code](https://github.com/Tianyi-Billy-Ma/BHyGNN)]
 
 - [**EMNLP'25**] PsyScam: A Benchmark for Psychological Techniques in Real-World Scams\
 Shang Ma, **Tianyi Ma**, Jiahao Liu, Wei Song, Zhenkai Liang, Xusheng Xiao, Yanfang Ye.\
