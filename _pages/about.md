@@ -16,10 +16,9 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 
 # News
+- [2025.12] We release beta version of AutoData. [Link](https://github.com/Tianyi-Billy-Ma/AutoData)
+- [2025.11] Our paper on Hypergraph Representation Learning with Adaptive Broadcasting and Receiving was selected as **Best Paper Award Candidate** in ICDM'25.
 - [2025.09] Two papers were accepted by NeurIPS'25.
-- [2025.08] One paper was accepted by ICDM'25. 
-- [2025.08] One paper was accepted by EMNLP'25. Congrats to [Shang Ma](https://shangma.org/)!
-- [2025.05] Two papers were accepted by ACL'25.
 
 
 # Selected Publications
@@ -43,7 +42,7 @@ Zehong Wang, Zheyuan Liu, **Tianyi Ma**, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, 
 
 - [**NeurIPS'25**] AutoData: A Multi-Agent System for Open Web Data Collection\
 **Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
-[[Paper](https://arxiv.org/abs/2505.15859)] [[Code](https://github.com/GraphResearcher/AutoData)]
+[[Paper](https://arxiv.org/abs/2505.15859)] [[Code](https://github.com/Tianyi-Billy-Ma/AutoData)]
 
 - [**NeurIPS'25**] Scalable Graph Generative Modeling via Substructure Sequences\
 Zehong Wang, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye.\
