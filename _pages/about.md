@@ -28,6 +28,17 @@ My research fields fail in graph/hypergraph Learning and its application with La
 - BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs\
   **Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\
   [[Paper](https://arxiv.org/abs/2602.14919)]
+- Molecular Representations in Implicit Functional Space via Hyper-Networks\
+  Zehong Wang, Xiaolong Han, Qi Yang, Xiangru Tang, Fang Wu, Xiaoguang Guo, Weixiang Sun, **Tianyi Ma**, Pietro Lio, Le Cong, Sheng Wang, Chuxu Zhang, Yanfang Ye.\
+  [[Paper](https://arxiv.org/abs/2601.22327)]
+
+- GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health\
+  Jiatan Huang, Zheyuan Zhang, **Tianyi Ma**, Mingchen Li, Yaning Zheng, Yanfang Ye, Chuxu Zhang.\
+  [[Paper](https://arxiv.org/abs/2601.18106)]
+
+- LongDA: Benchmarking LLM Agents for Long-Document Data Analysis\
+  Yiyang Li, Zheyuan Zhang, Tianyi Ma, Zehong Wang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
+  [[Paper](https://arxiv.org/abs/2601.02598)] [[Code](https://github.com/Yiyang-Ian-Li/LongDA)]
 
 - Adaptive Expansion for Hypergraph Learning\
   **Tianyi Ma**, Yiyue Qian, Shinan Zhang, Chuxu Zhang, Yanfang Ye.\
