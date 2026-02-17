@@ -21,6 +21,14 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 ## Preprints
 
+- OPBench: A Graph Benchmark to Combat the Opioid Crisis\
+  **Tianyi Ma**, Yiyang Li, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Chuxu Zhang, Yanfang Ye.\
+  [[Paper](https://arxiv.org/abs/2602.14602)] [[Code](https://github.com/Tianyi-Billy-Ma/OPBench)]
+
+- BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs\
+  **Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\
+  [[Paper](https://arxiv.org/abs/2602.14919)]
+
 - Adaptive Expansion for Hypergraph Learning\
   **Tianyi Ma**, Yiyue Qian, Shinan Zhang, Chuxu Zhang, Yanfang Ye.\
   [[Paper](https://arxiv.org/abs/2502.15564)] [[Code](https://anonymous.4open.science/r/AdE-CEE2/README.md)]
@@ -28,7 +36,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
 ## Survey
 
 - LLMs4All: A Review of Large Language Models Across Academic Disciplines\
-  Yanfang Ye, Zheyuan Zhang, Tianyi Ma, Zehong Wang, Yiyang Li, Shifu Hou, Weixiang Sun, Kaiwen Shi, Yijun Ma, and others.\
+  Yanfang Ye, Zheyuan Zhang, **Tianyi Ma**, Zehong Wang, Yiyang Li, Shifu Hou, Weixiang Sun, Kaiwen Shi, Yijun Ma, and others.\
   [[Paper](https://arxiv.org/abs/2509.19580)]
 
 - Graph Foundation Models: A Comprehensive Survey\
@@ -92,7 +100,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
   **Tianyi Ma**, Yiyue Qian, Chuxu Zhang, Yanfang, Ye.\
   [[Paper](https://ieeexplore.ieee.org/document/10415815)] [[Code](https://github.com/GraphResearcher/HyGCL-DC)]
 
-- Contact
+## Contact
 
-* Email: tma2\[at\]nd\[dot\]edu
-* Office: 247 Fitzpatrick Hall of Engineering
+- Email: tma2\[at\]nd\[dot\]edu
+- Office: 247 Fitzpatrick Hall of Engineering
