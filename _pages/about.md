@@ -51,7 +51,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 ## 2025
 
-- [**ICDM'25**] (Best Paper Award Candidate) Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
+- [**ICDM'25**] **<font color='red'>(Best Paper Award Candidate)</font>** Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
   **Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.\
   [[Code](https://github.com/Tianyi-Billy-Ma/BHyGNN)]
 - [**NeurIPS'25**] AutoData: A Multi-Agent System for Open Web Data Collection\
