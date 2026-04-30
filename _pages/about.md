@@ -49,11 +49,16 @@ My research fields fail in graph/hypergraph Learning and its application with La
 - Graph Foundation Models: A Comprehensive Survey\
   Zehong Wang, Zheyuan Liu, **Tianyi Ma**, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye.\
   [[Paper](https://arxiv.org/abs/2505.15116)] [[Awesome List](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
-
-## 2025
+  
+## 2026 
 
 - [**ICML'26**] Non-Monotonic Autoregressive Sequence Model\
   **Tianyi Ma**, Yiyue Qian, Yiyang Li, Zehong Wang, Yifan Ding, Zheyuan Zhang, Yan Liang, Chuxu Zhang, Yanfang Ye.
+  
+- [**ACL'26**] AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering\
+  Zheyuan Zhang, Kaiwen Shi, Zhengqing Yuan, Zehong Wang, **Tianyi Ma**, Keerthiram Murugesan, Vincent Galassi, Chuxu Zhang, Yanfang Ye
+
+## 2025
 
 - [**ICDM'25**] **<font color='red'>(Best Paper Award Candidate)</font>** Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
   **Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.\
