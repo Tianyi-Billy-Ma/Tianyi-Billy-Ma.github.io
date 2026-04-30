@@ -14,6 +14,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 # News
 
+- [2026.04] One first-authored paper N-MARS is accepted by ICML'26.
 - [2025.12] We release beta version of AutoData. [Link](https://github.com/Tianyi-Billy-Ma/AutoData)
 - [2025.11] Our paper on Hypergraph Representation Learning with Adaptive Broadcasting and Receiving was selected as **Best Paper Award Candidate** in ICDM'25.
 
@@ -50,6 +51,9 @@ My research fields fail in graph/hypergraph Learning and its application with La
   [[Paper](https://arxiv.org/abs/2505.15116)] [[Awesome List](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
 
 ## 2025
+
+- [**ICML'26**] Non-Monotonic Autoregressive Sequence Model\
+  **Tianyi Ma**, Yiyue Qian, Yiyang Li, Zehong Wang, Yifan Ding, Zheyuan Zhang, Yan Liang, Chuxu Zhang, Yanfang Ye.
 
 - [**ICDM'25**] **<font color='red'>(Best Paper Award Candidate)</font>** Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
   **Tianyi Ma**, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.\
