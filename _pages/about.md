@@ -14,10 +14,12 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 # News
 
-- [2026.05] One first-authored paper OPBench is accepted by KDD'26 (oral).
-- [2026.04] One first-authored paper N-MARS is accepted by ICML'26.
-- [2025.12] We release beta version of AutoData. [Link](https://github.com/Tianyi-Billy-Ma/AutoData)
-- [2025.11] Our paper on Hypergraph Representation Learning with Adaptive Broadcasting and Receiving was selected as **Best Paper Award Candidate** in ICDM'25.
+<ul class="news-timeline">
+  <li><span class="news-date">2026.05</span> One first-authored paper OPBench is accepted by KDD'26 (oral).</li>
+  <li><span class="news-date">2026.04</span> One first-authored paper N-MARS is accepted by ICML'26.</li>
+  <li><span class="news-date">2025.12</span> We release beta version of AutoData. <a href="https://github.com/Tianyi-Billy-Ma/AutoData">Link</a></li>
+  <li><span class="news-date">2025.11</span> Our paper on Hypergraph Representation Learning with Adaptive Broadcasting and Receiving was selected as <strong>Best Paper Award Candidate</strong> in ICDM'25.</li>
+</ul>
 
 # Selected Publications
 

@@ -1,0 +1,13 @@
+<div class="pub-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <p class="pub-badges">
+    {% if post.venue %}<span class="pub-venue">{{ post.venue }}</span>{% endif %}
+    {% if post.award %}<span class="pub-award">{{ post.award }}</span>{% endif %}
+  </p>
+  <h3 class="pub-title" itemprop="name"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h3>
+  {% if post.authors %}<p class="pub-authors">{{ post.authors | markdownify | remove: "<p>" | remove: "</p>" }}</p>{% endif %}
+  <p class="pub-links">
+    {% if post.paperurl %}<a class="pub-link" href="{{ post.paperurl }}">Paper</a>{% endif %}
+    {% if post.codeurl %}<a class="pub-link" href="{{ post.codeurl }}">Code</a>{% endif %}
+    {% if post.extraurl %}<a class="pub-link" href="{{ post.extraurl }}">{{ post.extralabel | default: "Project" }}</a>{% endif %}
+  </p>
+</div>

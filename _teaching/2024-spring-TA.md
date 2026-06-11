@@ -2,7 +2,7 @@
 title: "Leader of Teaching Assistants for CSE 40567/60567: Computer Security"
 collection: teaching
 type: "graduate/undergraduate course"
-permalink: /teaching/2024-spring-TA.md
+permalink: /teaching/2024-spring-TA
 venue: "University of Notre Dame, Department of Computer Science and Engineering"
 date: 2024-01-18
 location: "South Bend, USA"

@@ -1,0 +1,182 @@
+/* ==========================================================================
+   Custom styles — Notre Dame palette accent
+   Navy: #0C2340  Gold: #AE9142
+   ========================================================================== */
+
+// --------------------------------------------------------------------------
+// Publication list
+// --------------------------------------------------------------------------
+
+.pub-list {
+  margin: 1.5em 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pub-item {
+  margin-bottom: 1.1em;
+  padding-bottom: 1.1em;
+  border-bottom: 1px solid #e8eaed;
+
+  &:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+}
+
+.pub-badges {
+  margin: 0 0 0.2em 0;
+  padding: 0;
+  line-height: 1;
+
+  p {
+    margin: 0;
+  }
+}
+
+.pub-venue {
+  display: inline-block;
+  background-color: #0C2340;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 2px 8px;
+  border-radius: 4px;
+  vertical-align: middle;
+  line-height: 1.5;
+}
+
+.pub-award {
+  display: inline-block;
+  background-color: #AE9142;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 2px 8px;
+  border-radius: 4px;
+  vertical-align: middle;
+  line-height: 1.5;
+  margin-left: 4px;
+}
+
+.pub-title {
+  margin: 0.25em 0 0.15em 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.35;
+
+  a {
+    color: #0C2340;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+      color: #0C2340;
+    }
+
+    &:visited {
+      color: #0C2340;
+    }
+  }
+}
+
+.pub-authors {
+  margin: 0.1em 0;
+  font-size: 0.9rem;
+  color: #7a8288;
+  line-height: 1.4;
+
+  strong {
+    color: #0C2340;
+    font-weight: 600;
+  }
+}
+
+.pub-links {
+  margin-top: 0.35em;
+  line-height: 1;
+}
+
+.pub-link {
+  display: inline-block;
+  font-size: 0.78rem;
+  color: #0C2340;
+  border: 1px solid #0C2340;
+  padding: 1px 8px;
+  border-radius: 3px;
+  text-decoration: none;
+  margin-right: 5px;
+  transition: background-color 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    background-color: #0C2340;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: #0C2340;
+  }
+}
+
+.pub-year-heading {
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+  padding-bottom: 0.3em;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #0C2340;
+  border-bottom: 2px solid #AE9142;
+  letter-spacing: 0.01em;
+}
+
+
+// --------------------------------------------------------------------------
+// News timeline
+// --------------------------------------------------------------------------
+
+.news-timeline {
+  margin: 0.75em 0 1.5em 0;
+  padding: 0;
+  list-style: none;
+  border-left: 2px solid #AE9142;
+
+  li {
+    position: relative;
+    padding: 0.3em 0 0.3em 1.35em;
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: #3d4144;
+
+    // dot marker
+    &::before {
+      content: '';
+      position: absolute;
+      left: -5px;
+      top: 0.65em;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background-color: #0C2340;
+      border: 1.5px solid #fff;
+      box-shadow: 0 0 0 1.5px #AE9142;
+    }
+  }
+}
+
+.news-date {
+  display: inline-block;
+  font-family: Monaco, Consolas, "Lucida Console", monospace;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #7a8288;
+  margin-right: 0.55em;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  vertical-align: baseline;
+}

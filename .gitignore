@@ -1,3 +1,5 @@
 _site/
 .omc/
 .DS_Store
+Gemfile.lock
+.jekyll-cache/
