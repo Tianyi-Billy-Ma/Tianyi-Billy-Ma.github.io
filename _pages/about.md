@@ -14,7 +14,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 # News
 
-- [2026.05] One first-authored paper OPBench is accepted by KDD'26.
+- [2026.05] One first-authored paper OPBench is accepted by KDD'26 (oral).
 - [2026.04] One first-authored paper N-MARS is accepted by ICML'26.
 - [2025.12] We release beta version of AutoData. [Link](https://github.com/Tianyi-Billy-Ma/AutoData)
 - [2025.11] Our paper on Hypergraph Representation Learning with Adaptive Broadcasting and Receiving was selected as **Best Paper Award Candidate** in ICDM'25.
@@ -47,15 +47,14 @@ My research fields fail in graph/hypergraph Learning and its application with La
 - Graph Foundation Models: A Comprehensive Survey\
   Zehong Wang, Zheyuan Liu, **Tianyi Ma**, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye.\
   [[Paper](https://arxiv.org/abs/2505.15116)] [[Awesome List](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
-  
-## 2026 
 
-- [**KDD'26**] OPBench: A Graph Benchmark to Combat the Opioid Crisis\
+## 2026
+
+- [**KDD'26**]**<font color='red'>(Oral)</font>** OPBench: A Graph Benchmark to Combat the Opioid Crisis\
   **Tianyi Ma**, Yiyang Li, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Chuxu Zhang, Yanfang Ye.\
   [[Paper](https://arxiv.org/pdf/2602.14602)] [[Code](https://github.com/Tianyi-Billy-Ma/OPBench)]
 - [**ICML'26**] Non-Monotonic Autoregressive Sequence Model\
   **Tianyi Ma**, Yiyue Qian, Yiyang Li, Zehong Wang, Yifan Ding, Zheyuan Zhang, Yan Liang, Chuxu Zhang, Yanfang Ye.
-  
 - [**ACL'26**] AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering\
   Zheyuan Zhang, Kaiwen Shi, Zhengqing Yuan, Zehong Wang, **Tianyi Ma**, Keerthiram Murugesan, Vincent Galassi, Chuxu Zhang, Yanfang Ye
 
