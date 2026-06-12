@@ -15,6 +15,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
 # News
 
 <ul class="news-timeline">
+  <li><span class="news-date">2026.06</span> One first-authored paper BHyGNN+ is accepted by KAIS.</li>
   <li><span class="news-date">2026.05</span> One first-authored paper OPBench is accepted by KDD'26 (oral).</li>
   <li><span class="news-date">2026.04</span> One first-authored paper N-MARS is accepted by ICML'26.</li>
   <li><span class="news-date">2025.12</span> We release beta version of AutoData. <a href="https://github.com/Tianyi-Billy-Ma/AutoData">Link</a></li>
@@ -25,9 +26,6 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 ## Preprints
 
-- BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs\
-  **Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\
-  [[Paper](https://arxiv.org/abs/2602.14919)]
 - Molecular Representations in Implicit Functional Space via Hyper-Networks\
   Zehong Wang, Xiaolong Han, Qi Yang, Xiangru Tang, Fang Wu, Xiaoguang Guo, Weixiang Sun, **Tianyi Ma**, Pietro Lio, Le Cong, Sheng Wang, Chuxu Zhang, Yanfang Ye.\
   [[Paper](https://arxiv.org/abs/2601.22327)]
@@ -52,13 +50,17 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 ## 2026
 
+- [**KAIS**] BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs\
+  **Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\
+  [[Paper](https://arxiv.org/abs/2602.14919)]
 - [**KDD'26**]**<font color='red'>(Oral)</font>** OPBench: A Graph Benchmark to Combat the Opioid Crisis\
   **Tianyi Ma**, Yiyang Li, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Chuxu Zhang, Yanfang Ye.\
   [[Paper](https://arxiv.org/pdf/2602.14602)] [[Code](https://github.com/Tianyi-Billy-Ma/OPBench)]
 - [**ICML'26**] Non-Monotonic Autoregressive Sequence Model\
   **Tianyi Ma**, Yiyue Qian, Yiyang Li, Zehong Wang, Yifan Ding, Zheyuan Zhang, Yan Liang, Chuxu Zhang, Yanfang Ye.
 - [**ACL'26**] AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering\
-  Zheyuan Zhang, Kaiwen Shi, Zhengqing Yuan, Zehong Wang, **Tianyi Ma**, Keerthiram Murugesan, Vincent Galassi, Chuxu Zhang, Yanfang Ye
+  Zheyuan Zhang, Kaiwen Shi, Zhengqing Yuan, Zehong Wang, **Tianyi Ma**, Keerthiram Murugesan, Vincent Galassi, Chuxu Zhang, Yanfang Ye.\
+  [[Paper](https://arxiv.org/pdf/2510.05445)] [[Code](https://anonymous.4open.science/r/AgentRouter/readme.md)]
 
 ## 2025
 
