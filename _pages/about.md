@@ -102,7 +102,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
 - [**NAACL'25**] Can LLMs Convert Graphs to Text-Attributed Graphs?\
   Zehong Wang, Sidney Liu, Zheyuan Zhang, **Tianyi Ma**, Chuxu Zhang, Yanfang Ye.\
   [[Paper](http://arxiv.org/abs/2412.10136)] [[Code](https://github.com/Zehong-Wang/TANS)]
-- [**KDD 25**] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
+- [**KDD'25**] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
   Zheyuan Zhang, Zehong Wang, **Tianyi Ma**, Varun Sameer Taneja, Sofia Nelson, et al.\
   [[Paper](https://arxiv.org/abs/2412.08847)] [[Code](https://github.com/Anonymous-Be3fb6/MOPI-HFRS)]
 
