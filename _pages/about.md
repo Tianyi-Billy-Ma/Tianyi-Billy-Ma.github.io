@@ -15,6 +15,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
 # News
 
 <ul class="news-timeline">
+  <li><span class="news-date">2026.06</span> We release two new preprints on AI for supramolecular chemistry: <strong>SupraBench</strong>, a benchmark for supramolecular chemistry, and <strong>MDForge</strong>, an agentic molecular dynamics pipeline.</li>
   <li><span class="news-date">2026.06</span> One first-authored paper BHyGNN+ is accepted by KAIS.</li>
   <li><span class="news-date">2026.05</span> One first-authored paper OPBench is accepted by KDD'26 (oral).</li>
   <li><span class="news-date">2026.04</span> One first-authored paper N-MARS is accepted by ICML'26.</li>
