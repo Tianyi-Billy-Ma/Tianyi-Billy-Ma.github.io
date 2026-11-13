@@ -16,6 +16,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 <ul class="news-timeline">
   <li><span class="news-date">2026.11</span> One co-authored paper EvoTaxo is accepted by EACL'27 Findings.</li>
+  <li><span class="news-date">2026.08</span> One co-authored paper MDForge is accepted by EMNLP'26 (oral).</li>
   <li><span class="news-date">2026.06</span> We release two new preprints on AI for supramolecular chemistry: <strong>SupraBench</strong>, a benchmark for supramolecular chemistry, and <strong>MDForge</strong>, an agentic molecular dynamics pipeline.</li>
   <li><span class="news-date">2026.06</span> One first-authored paper BHyGNN+ is accepted by KAIS.</li>
   <li><span class="news-date">2026.05</span> One first-authored paper OPBench is accepted by KDD'26 (oral).</li>
@@ -31,9 +32,6 @@ My research fields fail in graph/hypergraph Learning and its application with La
 - SupraBench: A Benchmark for Supramolecular Chemistry\
   **Tianyi Ma**, Yijun Ma, Zehong Wang, Weixiang Sun, Ziming Li, Connor R. Schmidt, Chuxu Zhang, Matthew J. Webber, Yanfang Ye.\
   [[Paper](https://arxiv.org/abs/2606.13477)] [[Code](https://github.com/Tianyi-Billy-Ma/SupraBench)]
-- MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback\
-  Zehong Wang, Yijun Ma, Connor R. Schmidt, **Tianyi Ma**, Weixiang Sun, Ziming Li, Xiaoguang Guo, Chuxu Zhang, Matthew J. Webber, Yanfang Ye.\
-  [[Paper](https://arxiv.org/abs/2606.12916)] [[Code](https://github.com/Zehong-Wang/MDForge)]
 - Molecular Representations in Implicit Functional Space via Hyper-Networks\
   Zehong Wang, Xiaolong Han, Qi Yang, Xiangru Tang, Fang Wu, Xiaoguang Guo, Weixiang Sun, **Tianyi Ma**, Pietro Lio, Le Cong, Sheng Wang, Chuxu Zhang, Yanfang Ye.\
   [[Paper](https://arxiv.org/abs/2601.22327)]
@@ -64,6 +62,9 @@ My research fields fail in graph/hypergraph Learning and its application with La
 
 ## 2026
 
+- [**EMNLP'26**]**<font color='red'>(Oral)</font>** MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback\
+  Zehong Wang, Yijun Ma, Connor R. Schmidt, **Tianyi Ma**, Weixiang Sun, Ziming Li, Xiaoguang Guo, Chuxu Zhang, Matthew J. Webber, Yanfang Ye.\
+  [[Paper](https://arxiv.org/abs/2606.12916)] [[Code](https://github.com/Zehong-Wang/MDForge)]
 - [**KAIS**] BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs\
   **Tianyi Ma**, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\
   [[Paper](https://arxiv.org/abs/2602.14919)]
