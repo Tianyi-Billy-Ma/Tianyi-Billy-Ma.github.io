@@ -15,6 +15,7 @@ My research fields fail in graph/hypergraph Learning and its application with La
 # News
 
 <ul class="news-timeline">
+  <li><span class="news-date">2026.11</span> One co-authored paper EvoTaxo is accepted by EACL'27 Findings.</li>
   <li><span class="news-date">2026.06</span> We release two new preprints on AI for supramolecular chemistry: <strong>SupraBench</strong>, a benchmark for supramolecular chemistry, and <strong>MDForge</strong>, an agentic molecular dynamics pipeline.</li>
   <li><span class="news-date">2026.06</span> One first-authored paper BHyGNN+ is accepted by KAIS.</li>
   <li><span class="news-date">2026.05</span> One first-authored paper OPBench is accepted by KDD'26 (oral).</li>
@@ -54,6 +55,12 @@ My research fields fail in graph/hypergraph Learning and its application with La
 - Graph Foundation Models: A Comprehensive Survey\
   Zehong Wang, Zheyuan Liu, **Tianyi Ma**, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye.\
   [[Paper](https://arxiv.org/abs/2505.15116)] [[Awesome List](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
+
+## 2027
+
+- [**EACL'27 Findings**] EvoTaxo: Building and Evolving Taxonomy from Social Media Streams\
+  Yiyang Li, **Tianyi Ma**, Yanfang Ye.\
+  [[Paper](https://arxiv.org/abs/2603.19711)]
 
 ## 2026
 
